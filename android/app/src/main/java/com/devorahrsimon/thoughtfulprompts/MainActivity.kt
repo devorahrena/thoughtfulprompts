@@ -1,4 +1,4 @@
-package com.thoughtfulprompts
+package com.devorahrsimon.thoughtfulprompts
 
 import android.os.Build
 import android.os.Bundle

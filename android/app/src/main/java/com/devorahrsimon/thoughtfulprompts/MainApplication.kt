@@ -1,4 +1,4 @@
-package com.thoughtfulprompts
+package com.devorahrsimon.thoughtfulprompts
 
 import android.app.Application
 import android.content.res.Configuration
